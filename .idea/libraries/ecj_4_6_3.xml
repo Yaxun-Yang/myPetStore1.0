@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ecj-4.6.3">
+    <CLASSES>
+      <root url="jar://D:/download/Tomcat-8.5.45/lib/ecj-4.6.3.jar!/" />
+      <root url="jar://D:/download/Tomcat-8.5.45/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

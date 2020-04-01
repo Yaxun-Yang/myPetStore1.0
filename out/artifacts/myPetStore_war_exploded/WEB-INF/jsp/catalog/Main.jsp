@@ -999,12 +999,12 @@
                 </a>
 <%--XIYI--%>
                 <a href="viewProduct?productId=RP-LI-02" >
-                    <img src="images/li.gif" class="RP-LI-02" id="RP-LI-02" width="80" height="80"
+                    <img src="images/lizard.gif" class="RP-LI-02" id="RP-LI-02" width="80" height="80"
                          style="position:absolute; top:530px;left:640px;z-index:10; visibility: hidden;"
                          onmouseover="MM_showHideLayers('RP-LI-02','','show');"  onmouseout="MM_showHideLayers('RP-LI-02','','hide');"/>
                 </a>
                 <a href="viewProduct?productId=RP-SN-01" >
-                    <img src="images/li.gif" class=RP-SN-01" id="RP-SN-01" width="80" height="80"
+                    <img src="images/lizard.gif" class=RP-SN-01" id="RP-SN-01" width="80" height="80"
                          style="position:absolute; top:530px;left:710px;z-index:10; visibility: hidden;"
                          onmouseover="MM_showHideLayers('RP-SN-01','','show');"  onmouseout="MM_showHideLayers('RP-SN-01','','hide');"/>
                 </a>
